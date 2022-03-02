@@ -9,7 +9,7 @@ FoodieUI is a UI like Facebook and social media applications but for food lovers
 </div>
 
 ## Description
-This is only a UI like a social media app but for Food reviews.
+This is only a UI like a social media app but for Food reviews. This app is ready to be connected to any back-end to be totally functional.
 
 
 ### Built with
